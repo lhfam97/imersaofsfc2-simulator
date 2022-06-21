@@ -1,4 +1,4 @@
-module github.com/codeedu/imersaofsfc2-simulator
+module github.com/lhfam97/imersaofsfc2-simulator
 go 1.16
 
 require (
